@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="D:\AndroidStudio\AndroidStudioWorkspaces\android-ultra-pull-to-refresh-demo\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\jars\libs\internal_impl-21.0.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="D:\AndroidStudio\AndroidStudioWorkspaces\android-ultra-pull-to-refresh-demo\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.3_a95b9df2959659417a38ae99294f8cc6b25b846c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AndroidStudio\AndroidStudioWorkspaces\android-ultra-pull-to-refresh-demo\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="D:\AndroidStudio\AndroidStudioWorkspaces\android-ultra-pull-to-refresh-demo\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-21.0.3_f4403690d8d2cf52b19000ae7417ebd8cfbf475c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AndroidStudio\AndroidStudioWorkspaces\android-ultra-pull-to-refresh-demo\app\build\intermediates\exploded-aar\in.srain.cube\ultra-ptr\1.0.7\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="e693fc7ab1f9383eec91f1b75604b4e263946652">
+        <dex dex="D:\AndroidStudio\AndroidStudioWorkspaces\android-ultra-pull-to-refresh-demo\app\build\intermediates\pre-dexed\debug\in.srain.cube-ultra-ptr-1.0.7_6d29f712c9a579106a44101799dbe5fb87cb38e1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AndroidStudio\AndroidStudioWorkspaces\android-ultra-pull-to-refresh-demo\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="D:\AndroidStudio\AndroidStudioWorkspaces\android-ultra-pull-to-refresh-demo\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-21.0.3_4e62509233ebb2d5676cada3cce4cd08ab08a7ab.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AndroidStudio\AndroidStudioWorkspaces\android-ultra-pull-to-refresh-demo\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\21.0.3\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="00b0b7233e1ec64acebfac40d4983d32d4712426">
+        <dex dex="D:\AndroidStudio\AndroidStudioWorkspaces\android-ultra-pull-to-refresh-demo\app\build\intermediates\pre-dexed\debug\com.android.support-cardview-v7-21.0.3_fb5fd9bfb050aa840b76f5d08fdbd27e6ce67a8d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AndroidStudio\sdk\extras\android\m2repository\com\android\support\support-annotations\21.0.3\support-annotations-21.0.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="D:\AndroidStudio\AndroidStudioWorkspaces\android-ultra-pull-to-refresh-demo\app\build\intermediates\pre-dexed\debug\support-annotations-21.0.3_b43832febd2d2978bc962f88fa366c5338024fb3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AndroidStudio\AndroidStudioWorkspaces\android-ultra-pull-to-refresh-demo\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\21.0.3\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="4b8945fc23a7461c6fdde15753456d64b0a9358b">
+        <dex dex="D:\AndroidStudio\AndroidStudioWorkspaces\android-ultra-pull-to-refresh-demo\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-21.0.3_0260e770446bd2e79eb87b57f12d7f292eef69db.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\administartor\.gradle\caches\modules-2\files-2.1\com.nostra13.universalimageloader\universal-image-loader\1.9.3\a85588bec3e2c4584d593d3f15df1677321bca72\universal-image-loader-1.9.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="a85588bec3e2c4584d593d3f15df1677321bca72">
+        <dex dex="D:\AndroidStudio\AndroidStudioWorkspaces\android-ultra-pull-to-refresh-demo\app\build\intermediates\pre-dexed\debug\universal-image-loader-1.9.3_23ea6b0b4eaee4220fdb548d36db2da7569c92d1.jar" />
+    </item>
+
+</items>
